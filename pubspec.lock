@@ -402,4 +402,4 @@ packages:
     source: hosted
     version: "2.1.15"
 sdks:
-  dart: ">=2.1.0 <3.0.0"
+  dart: ">=2.1.0-dev.9.4.flutter-f9ebf21297 <3.0.0"
